@@ -15,3 +15,7 @@ Geometries of the single parts that make up a complete wagon or locomotive are a
 
 The project is supported by the Europe’s Rail Joint Undertaking and its members.
 Funded by the European Union. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the Europe’s Rail  Joint Undertaking. Neither the European Union nor the granting authority can be held responsible for them.
+
+
+![Europe's Rail Logo](https://github.com/user-attachments/assets/1acc6e5b-060f-4a99-a00f-8255d77e347e) ![co-funded by EU](https://github.com/user-attachments/assets/2b9866f3-c6fb-45cf-9247-d837e92613c9)
+
