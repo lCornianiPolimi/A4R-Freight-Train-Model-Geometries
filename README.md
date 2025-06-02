@@ -19,6 +19,5 @@ Funded by the European Union. Views and opinions expressed are however those of 
 
 
 
-![co-funded by EU](https://github.com/user-attachments/assets/2b9866f3-c6fb-45cf-9247-d837e92613c9)
-![Europe's Rail Logo - Copia](https://github.com/user-attachments/assets/7a799b73-4537-4c32-b61e-446ddce1b6e6)
+![co-funded by EU](https://github.com/user-attachments/assets/2b9866f3-c6fb-45cf-9247-d837e92613c9) ![Europe's Rail Logo - Copia](https://github.com/user-attachments/assets/7a799b73-4537-4c32-b61e-446ddce1b6e6)
 
